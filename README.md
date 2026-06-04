@@ -31,14 +31,6 @@
   <h2>About Me</h2>
 </div>
 
-<p align="center">
-  <samp>
-    I am a developer who builds at the intersection of web technologies and artificial intelligence.
-    Currently interning at <strong>StartupVarsity</strong>, working on <strong>EduNest Learning</strong> --
-    designing intuitive experiences for an EaaS platform that helps aspiring founders build real companies from Day 1.
-    I care about clean architecture, thoughtful UX, and shipping products that solve real problems.
-  </samp>
-</p>
 
 <br>
 
