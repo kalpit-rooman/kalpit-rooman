@@ -41,19 +41,17 @@
   <a href="https://www.youtube.com/c/kolpu1929"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
----
-
 <br>
 
 <p align="center">
 <samp>
-i am a builder at heart
+Builder at Heart.
 </samp>
 </p>
 
 <br>
 
-<div align="left">
+<div align="center">
   <h2>Tech Stack</h2>
 </div>
 
