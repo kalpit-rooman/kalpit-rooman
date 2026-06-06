@@ -1,16 +1,62 @@
-<br clear="both">
+<p align="center">
+<pre align="center">
+ _  __          _      _____ _____ _______ 
+| |/ /    /\   | |    |  __ \_   _|__   __|
+| ' /    /  \  | |    | |__) || |    | |   
+|  <    / /\ \ | |    |  ___/ | |    | |   
+| . \  / ____ \| |____| |    _| |_   | |   
+|_|\_\/_/    \_\______|_|   |_____|  |_|   
+</pre>
+</p>
+
+<p align="center">
+<pre align="center">
+ _____           _____ 
+|  __ \   /\    / ____|
+| |  | | /  \  | (___  
+| |  | |/ /\ \  \___ \ 
+| |__| / ____ \ ____) |
+|_____/_/    \_\_____/ 
+</pre>
+</p>
+
+<p align="center">
+<!-- kaneki one-eyed king -->
+<pre align="center">
+                                                                  
+              ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄              
+          ▄▄█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█▄▄          
+        ▄█▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀█▄        
+      ▄█▀▀  ██████████████████████████████████  ▀▀█▄      
+      █▀   ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██   ▀█      
+    ▄█▀   ██▓▓████████████████████████████████▓▓██   ▀█▄    
+    ██   ██▓▓████████████████████████████████▓▓▓▓██   ██    
+    ██   ██▓▓████▀▀▀▀████████████████▀▀▀▀████▓▓▓▓██   ██    
+    ██   ██▓▓██▀      ▀▀████████▀▀      ▀▀██▓▓▓▓██   ██    
+    ██   ██▓▓█▀    ◖ ██    ▀▀    ██ ◗    ▀█▓▓▓▓██   ██    
+    ██   ██▓▓█▀    ◖ ████      ████ ◗    ▀█▓▓▓▓██   ██    
+    ██   ██▓▓██▀    ▀▀████████████▀▀    ▀██▓▓▓▓██   ██    
+    ██   ██▓▓████▀▀▀▀████████████▀▀▀▀████▓▓▓▓██   ██    
+    ██   ██▓▓████████████████████████████████▓▓██   ██    
+    ██    ██▓▓██████████████████████████████▓▓██    ██    
+    ▀█▄   ██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██   ▄█▀    
+      █▀   ▀████████████████████████████████▀   ▀█      
+      ▀█▄    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    ▄█▀      
+        ▀█▄▄                                ▄▄█▀        
+          ▀▀█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▀▀          
+              ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀              
+                                                                  
+</pre>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1500&color=333333&center=true&vCenter=true&width=400&lines=intern+@+StartupVarsity;building+EduNest+Learning" alt="Typing SVG" />
+</p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=KALPIT+DAS;Full-Stack+Developer;AI+%26+ML+Engineer;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</div>
 
-<br>
-
-<div align="center">
   <a href="mailto:kalpitdas8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kalpitdas8@gmail.com-6E40C9?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-kalpitdas8@gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
   <a href="https://github.com/kalpit-rooman">
     <img src="https://img.shields.io/badge/GitHub-kalpit--rooman-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -21,6 +67,7 @@
   <a href="https://www.youtube.com/c/kolpu1929">
     <img src="https://img.shields.io/badge/YouTube-kolpu1929-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+
 </div>
 
 ---
@@ -28,9 +75,9 @@
 <br>
 
 <div align="center">
-  <h2>About Me</h2>
+  <h2>About</h2>
+  <p><samp>I build at the intersection of web technologies and AI. Currently interning at StartupVarsity, working on EduNest Learning — designing intuitive experiences for an EaaS platform. I care about clean architecture, thoughtful UX, and shipping products that solve real problems.</samp></p>
 </div>
-
 
 <br>
 
@@ -88,10 +135,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kalpit-rooman&show_icons=true&theme=transparent&hide_border=true&title_color=6E40C9&text_color=333333&icon_color=6E40C9&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kalpit-rooman&show_icons=true&theme=transparent&hide_border=true&title_color=1a1a1a&text_color=333333&icon_color=1a1a1a&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpit-rooman&theme=transparent&hide_border=true&title_color=6E40C9&text_color=333333&layout=compact&langs_count=8" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpit-rooman&theme=transparent&hide_border=true&title_color=1a1a1a&text_color=333333&layout=compact&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -100,7 +147,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpit-rooman&theme=transparent&hide_border=true&stroke=6E40C9&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpit-rooman&theme=transparent&hide_border=true&stroke=1a1a1a&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -110,7 +157,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpit-rooman&theme=react-dark&hide_border=true&color=6E40C9&line=6E40C9&point=6E40C9" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpit-rooman&theme=react-dark&hide_border=true&color=1a1a1a&line=1a1a1a&point=888888" alt="Activity Graph" />
 </div>
 
 <br>
@@ -121,9 +168,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalpit-rooman/kalpit-rooman/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalpit-rooman/kalpit-rooman/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/kalpit-rooman/kalpit-rooman/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -154,7 +201,7 @@
     <tr>
       <td width="50%">
         <h3 align="center">Data Analytics Basics</h3>
-        <p align="center">A hands-on repository for practicing data science fundamentals -- exploratory data analysis, visualization, and statistical modeling.</p>
+        <p align="center">A hands-on repository for practicing data science fundamentals — exploratory data analysis, visualization, and statistical modeling.</p>
         <p align="center">
           <a href="https://github.com/kalpit-rooman/data_analytics_basics">View Repository</a>
         </p>
@@ -173,12 +220,11 @@
 <br>
 
 <div align="center">
-  <h2>Profile Views</h2>
-  <img src="https://komarev.com/ghpvc/?username=kalpit-rooman&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kalpit-rooman&color=1a1a1a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br>
 
 <div align="center">
-  <sub>Built with precision by <strong>Kalpit Das</strong></sub>
+  <sub>One Eyed King</sub>
 </div>
