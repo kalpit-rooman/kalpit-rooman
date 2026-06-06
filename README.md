@@ -1,12 +1,16 @@
 <p align="center">
 <pre align="center">
- _  __          _      _____ _____ _______   _____           _____
-| |/ /    /\   | |    |  __ \_   _|__   __| |  __ \   /\    / ____|
-| ' /    /  \  | |    | |__) || |    | |    | |  | | /  \  | (___
-|  <    / /\ \ | |    |  ___/ | |    | |    | |  | |/ /\ \  \___ \
-| . \  / ____ \| |____| |    _| |_   | |    | |__| / ____ \ ____) |
-|_|\_\/_/    \_\______|_|   |_____|  |_|    |_____/_/    \_\_____/
+ _   __  ___   _     ______ _____ _____  ______  ___   _____
+| | / / / _ \ | |    | ___ \_   _|_   _| |  _  \/ _ \ /  ___|
+| |/ / / /_\ \| |    | |_/ / | |   | |   | | | / /_\ \\ `--.
+|    \ |  _  || |    |  __/  | |   | |   | | | |  _  | `--. \
+| |\  \| | | || |____| |    _| |_  | |   | |/ /| | | |/\__//
+\_| \_/\_| |_/\_____/\_|    \___/  \_/   |___/ \_| |_/\____/
 </pre>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalpit-rooman&color=333333&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -137,42 +141,13 @@ i am a builder at heart
 <br>
 
 <div align="center">
-  <h2>Featured Projects</h2>
+  <h2>Featured Project</h2>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">PocketPaw</h3>
-        <p align="center">Your AI agent in 30 seconds. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center (Deep Work), and 7-layer security. Supports Anthropic, OpenAI, or Ollama.</p>
-        <p align="center"><a href="https://github.com/kalpit-rooman/pocketpaw">View Repository</a></p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Software Cost Estimation</h3>
-        <p align="center">A Python-based tool for estimating software development costs using analytical models and data-driven approaches.</p>
-        <p align="center"><a href="https://github.com/kalpit-rooman/Software-Cost-Estimation">View Repository</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Data Analytics Basics</h3>
-        <p align="center">A hands-on repository for practicing data science fundamentals — exploratory data analysis, visualization, and statistical modeling.</p>
-        <p align="center"><a href="https://github.com/kalpit-rooman/data_analytics_basics">View Repository</a></p>
-      </td>
-      <td width="50%">
-        <h3 align="center">OpenVoice</h3>
-        <p align="center">Instant voice cloning by MIT and MyShell. Audio foundation model for voice synthesis and cloning applications.</p>
-        <p align="center"><a href="https://github.com/kalpit-rooman/OpenVoice">View Repository</a></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalpit-rooman&color=333333&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <h3>Software Cost Estimation</h3>
+  <p>A Python-based tool for estimating software development costs using analytical models and data-driven approaches.</p>
+  <p><a href="https://github.com/kalpit-rooman/Software-Cost-Estimation">View Repository</a></p>
 </div>
 
 <br>
