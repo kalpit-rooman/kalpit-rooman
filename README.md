@@ -1,11 +1,11 @@
 <p align="center">
 <pre align="center">
- ____  __.          .__             .__    __       ________                     
+ ____  __.          .__             .__    __       ________
 |    |/ _| _____    |  |   ______   |__| _/  |_     \______ \   _____      ______
 |      <   \__  \   |  |   \____ \  |  | \   __\     |    |  \  \__  \    /  ___/
-|    |  \   / __ \_ |  |__ |  |_> > |  |  |  |       |    `   \  / __ \_  \___ \ 
+|    |  \   / __ \_ |  |__ |  |_> > |  |  |  |       |    `   \  / __ \_  \___ \
 |____|__ \ (____  / |____/ |   __/  |__|  |__|      /_______  / (____  / /____  >
-        \/      \/         |__|                             \/       \/       \/ 
+        \/      \/         |__|                             \/       \/       \/
 </pre>
 </p>
 
@@ -45,7 +45,13 @@
 
 <p align="center">
 <samp>
-Builder at Heart.
+┌──────────────────────────────────────────────────────────────────────────┐
+│  builder at heart — weaving full-stack systems with ai that thinks.     │
+│  from pixel-perfect frontends to model-powered backends, i ship         │
+│  products that feel inevitable. clean architecture, thoughtful ux,      │
+│  zero compromise. whether it is a multi-agent ai system or real-time    │
+│  websocket apps — i build what matters.                                 │
+└──────────────────────────────────────────────────────────────────────────┘
 </samp>
 </p>
 
@@ -110,16 +116,13 @@ Builder at Heart.
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kalpit-rooman&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=333333&text_color=555555&icon_color=333333&bg_color=ffffff" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpit-rooman&theme=transparent&hide_border=true&stroke=333333&ring=333333&fire=333333&currStreakLabel=333333&background=ffffff" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalpit-rooman&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" width="420" alt="GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpit-rooman&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -139,13 +142,13 @@ Builder at Heart.
 <br>
 
 <div align="center">
-  <h2>Featured Project</h2>
+  <h2>Featured Research Project</h2>
 </div>
 
 <div align="center">
-  <h3>Software Cost Estimation</h3>
-  <p>A Python-based tool for estimating software development costs using analytical models and data-driven approaches.</p>
+  <h3>Software Cost Estimation (Research)</h3>
+  <p>A research project that estimates software development effort using machine learning and deep learning approaches. Implements baseline models (Linear Regression, Random Forest, XGBoost), a 1D CNN regressor, and PSO (Particle Swarm Optimization) to tune CNN hyperparameters. Evaluated on COCOMO-81, Desharnais, and china.arff datasets. Includes a production-ready two-step adaptive web application built with FastAPI and Next.js.</p>
   <p><a href="https://github.com/kalpit-rooman/Software-Cost-Estimation">View Repository</a></p>
 </div>
 
-
+<br>
