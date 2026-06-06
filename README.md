@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1500&color=333333&center=true&vCenter=true&width=400&lines=intern+@+StartupVarsity;building+EduNest+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1500&color=333333&center=true&vCenter=true&width=400&lines=full-stack+developer;ai/ml+engineer;open+source+contributor" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -76,7 +76,7 @@
 
 <div align="center">
   <h2>About</h2>
-  <p><samp>I build at the intersection of web technologies and AI. Currently interning at StartupVarsity, working on EduNest Learning — designing intuitive experiences for an EaaS platform. I care about clean architecture, thoughtful UX, and shipping products that solve real problems.</samp></p>
+  <p><samp>I build at the intersection of web technologies and artificial intelligence. I care about clean architecture, thoughtful UX, and shipping products that solve real problems.</samp></p>
 </div>
 
 <br>
